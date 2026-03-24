@@ -1,0 +1,43 @@
+name: Publish to Hashnode
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "posts/*.md"
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Get changed markdown files
+        id: changed
+        run: |
+          FILES=$(git diff --name-only --diff-filter=ACM HEAD~1 HEAD -- 'posts/*.md')
+          if [ -z "$FILES" ]; then
+            echo "No markdown files changed"
+            echo "files=" >> $GITHUB_OUTPUT
+          else
+            # Convert newlines to space-separated list
+            FILES_ONELINE=$(echo "$FILES" | tr '\n' ' ')
+            echo "files=$FILES_ONELINE" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Setup Node.js
+        if: steps.changed.outputs.files != ''
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Publish posts
+        if: steps.changed.outputs.files != ''
+        env:
+          HASHNODE_TOKEN: ${{ secrets.HASHNODE_TOKEN }}
+          HASHNODE_PUBLICATION_ID: ${{ secrets.HASHNODE_PUBLICATION_ID }}
+          CHANGED_FILES: ${{ steps.changed.outputs.files }}
+        run: node .github/scripts/publish-to-hashnode.mjs
