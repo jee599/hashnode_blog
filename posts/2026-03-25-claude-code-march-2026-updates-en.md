@@ -65,3 +65,4 @@ Each feature individually is useful. Together, they describe a tool that's rapid
 **Read more:** [Claude Code Hooks Guide](https://dev.to/jee599/claude-code-hooks-automation-guide-en) | [Claude Code MCP Guide](https://dev.to/jee599/claude-code-mcp-setup-guide-en) | [Claude Code Subagents Guide](https://dev.to/jee599/claude-code-subagents-parallel-guide-en) | [Read this post on spoonai.me](https://spoonai.me/blog/2026-03-25-claude-code-march-2026-updates-en)
 
 What's the one March feature you've integrated into your daily workflow? And what's still missing?
+

@@ -104,3 +104,4 @@ If you could hand off one recurring task on your Mac to an AI agent right now, w
 Read the Korean version on [spoonai.me](https://spoonai.me/blog/2026-03-25-claude-computer-use-mac-agent-ko)
 
 Follow me on [DEV.to](https://dev.to/jee599)
+
