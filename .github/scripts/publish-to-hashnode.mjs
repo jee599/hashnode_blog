@@ -107,7 +107,7 @@ async function createPost(frontmatter, markdown) {
       : undefined,
     originalArticleURL: frontmatter.canonical || undefined,
     settings: {
-      enableTableOfContents: frontmatter.enableToc === true,
+      enableTableOfContent: frontmatter.enableToc === true,
     },
   };
 
@@ -147,7 +147,7 @@ async function updatePost(postId, frontmatter, markdown) {
       : undefined,
     originalArticleURL: frontmatter.canonical || undefined,
     settings: {
-      enableTableOfContents: frontmatter.enableToc === true,
+      enableTableOfContent: frontmatter.enableToc === true,
     },
   };
 
