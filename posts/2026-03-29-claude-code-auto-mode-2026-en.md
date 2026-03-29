@@ -97,3 +97,4 @@ Read more on [DEV.to](https://dev.to/jee599/claude-code-auto-mode-2026).
 - [Claude Code Permission Modes - Docs](https://code.claude.com/docs/en/permission-modes)
 - [Simon Willison's Coverage](https://simonwillison.net/2026/Mar/24/auto-mode-for-claude-code/)
 - [9to5Mac - Claude Code Auto Mode](https://9to5mac.com/2026/03/24/claude-code-gives-developers-auto-mode-a-safer-alternative-to-skipping-permissions/)
+

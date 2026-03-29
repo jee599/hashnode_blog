@@ -86,3 +86,4 @@ Follow me on [DEV.to](https://dev.to/jee599).
 - [CNBC — Hearing Details](https://www.cnbc.com/2026/03/24/anthropic-lawsuit-pentagon-supply-chain-risk-claude.html)
 - [NPR — Post-Ruling Reaction](https://www.npr.org/2026/03/26/nx-s1-5762971/judge-temporarily-blocks-anthropic-ban)
 - [Anthropic Official Statement](https://www.anthropic.com/news/statement-department-of-war)
+

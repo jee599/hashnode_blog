@@ -80,3 +80,4 @@ Follow me on [DEV.to](https://dev.to/jee599).
 - [Futurism — Leak Analysis](https://futurism.com/artificial-intelligence/anthropic-step-change-new-model-claude-mythos)
 - [CoinDesk — Market Impact](https://www.coindesk.com/markets/2026/03/27/anthropic-s-massive-claude-mythos-leak-reveals-a-new-ai-model-that-could-be-a-cybersecurity-nightmare)
 - [Fortune — Cybersecurity Risk Follow-up](https://fortune.com/2026/03/27/anthropic-leaked-ai-mythos-cybersecurity-risk/)
+

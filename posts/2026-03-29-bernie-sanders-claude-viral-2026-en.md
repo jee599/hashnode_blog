@@ -87,3 +87,4 @@ Read the DEV.to version: [Bernie Sanders Interviewed Claude AI — Reddit Roaste
 - [Inc.com — Bernie Sanders Had a Long Conversation With AI](https://www.inc.com/chloe-aiello/bernie-sanders-had-a-long-conversation-with-ai-reddit-didnt-hold-back/91321536)
 - [TechCrunch — Bernie Sanders' AI 'gotcha' video flops](https://techcrunch.com/2026/03/23/bernie-sanders-ai-gotcha-video-flops-but-the-memes-are-great/)
 - [Techdirt — Bernie Sanders "Interviewed" A Chatbot](https://www.techdirt.com/2026/03/23/bernie-sanders-interviewed-a-chatbot-to-expose-ais-secrets-it-has-no-secrets-it-just-agrees-with-you/)
+

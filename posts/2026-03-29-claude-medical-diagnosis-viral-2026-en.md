@@ -92,3 +92,4 @@ Read the DEV.to version: [Claude AI Caught a 25-Year Undiagnosed Sleep Apnea Cas
 - [Storyboard18 — Claude AI flags undiagnosed sleep apnea](https://www.storyboard18.com/digital/claude-ai-flags-undiagnosed-sleep-apnea-in-indian-patient-after-25-years-claims-reddit-user-ws-l-93573.htm)
 - [TechRadar — Claude just joined your healthcare team](https://www.techradar.com/ai-platforms-assistants/claude-just-joined-your-healthcare-team-and-might-be-ready-to-help-your-doctor-help-you)
 - [Springer Nature — AI in obstructive sleep apnea](https://link.springer.com/article/10.1007/s00405-025-09377-x)
+

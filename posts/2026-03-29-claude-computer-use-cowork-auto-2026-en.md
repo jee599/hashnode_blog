@@ -96,3 +96,4 @@ Also published on [DEV.to](https://dev.to/jee599/claude-computer-use-cowork-auto
 - [Anthropic Engineering: Claude Code Auto Mode](https://www.anthropic.com/engineering/claude-code-auto-mode)
 - [WinBuzzer: Claude Code Cowork Auto Mode](https://winbuzzer.com/2026/03/25/anthropic-claude-code-cowork-auto-mode-computer-use-xcxwbn/)
 - [Builder.io: Claude Code Updates](https://www.builder.io/blog/claude-code-updates)
+

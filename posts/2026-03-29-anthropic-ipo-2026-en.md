@@ -60,3 +60,4 @@ Also published on [DEV.to](https://dev.to/jee599/anthropic-ipo-2026).
 - [Epoch AI: Anthropic vs OpenAI Revenue](https://epoch.ai/data-insights/anthropic-openai-revenue)
 - [Forge Global: Anthropic IPO Analysis](https://forgeglobal.com/insights/anthropic-upcoming-ipo-news/)
 - [Seeking Alpha: Anthropic Raises Revenue Forecast](https://seekingalpha.com/news/4543624-anthropic-raises-2026-revenue-forecast-by-20-to-18b)
+
