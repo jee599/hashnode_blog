@@ -2,7 +2,7 @@
 title: "Anthropic Just Launched Its Own Think Tank"
 slug: 2026-03-29-anthropic-institute-2026-en
 enableToc: true
-tags: ai, programming, career, productivity
+tags: [ai, programming, career, productivity]
 cover: https://r2.jidonglab.com/blog/2026/03/anthropic-institute-2026-hero.jpg
 domain: jidonglab.hashnode.dev
 ---

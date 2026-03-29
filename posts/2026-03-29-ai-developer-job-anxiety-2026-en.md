@@ -2,7 +2,7 @@
 title: "30% of Developers Think AI Will Replace Them"
 slug: 2026-03-29-ai-developer-job-anxiety-2026-en
 enableToc: true
-tags: ai, programming, career, webdev
+tags: [ai, programming, career, webdev]
 cover: https://r2.jidonglab.com/blog/2026/03/ai-developer-job-anxiety-2026-hero.jpg
 domain: jidonglab.hashnode.dev
 ---
