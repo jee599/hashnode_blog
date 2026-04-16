@@ -71,11 +71,11 @@ The equivalent output from gpt-image-1.5 would have rendered maybe three of the 
 
 Three practical changes I am making now. First, I am writing my new asset pipeline with a single image-generation step and a lightweight review step instead of a multi-tool chain. The new shape assumes the model gets text right. If duct-tape or equivalent ships, the pipeline is already aligned. If it slips, my fallback keeps the multi-tool chain available for text-heavy assets only.
 
-Second, I am putting a Korean small-business SaaS hypothesis back into my prototype queue. Hangul rendering has been the binding constraint on image-AI product adoption in that segment for years, and a duct-tape-class API opens it. I wrote about the saju app's visual language in [my Three.js cosmic design post](https://dev.to/jee599/saju-app-design-threejs-cosmic-en), and the same reasoning applies — when the visual tooling gets good enough to ship without hand-editing, new product surfaces open.
+Second, I am putting a Korean small-business SaaS hypothesis back into my prototype queue. Hangul rendering has been the binding constraint on image-AI product adoption in that segment for years, and a duct-tape-class API opens it. I wrote about the saju app's visual language in [my Three.js cosmic design post](https://dev.to/ji_ai/saju-app-design-threejs-cosmic-en), and the same reasoning applies — when the visual tooling gets good enough to ship without hand-editing, new product surfaces open.
 
-Third, I am not rewriting my trading bot's UI generation scripts. The bot renders strategy reports as images for a Telegram channel, and the current pipeline with gpt-image-1.5 plus a small Figma overlay is stable. I covered the bot's architecture in [the trading bot 15 strategies writeup](https://dev.to/jee599/trading-bot-15-strategies-en), and the image step is mid-priority compared to execution logic. A better image model does not change what needs to be true for that product to work.
+Third, I am not rewriting my trading bot's UI generation scripts. The bot renders strategy reports as images for a Telegram channel, and the current pipeline with gpt-image-1.5 plus a small Figma overlay is stable. I covered the bot's architecture in [the trading bot 15 strategies writeup](https://dev.to/ji_ai/trading-bot-15-strategies-en), and the image step is mid-priority compared to execution logic. A better image model does not change what needs to be true for that product to work.
 
-A thought about the broader arc. Model releases used to be judged on whether they were "prettier." That axis is dead. What matters now is how many steps in your workflow disappear when the model ships. This is the same pattern I wrote about in [prompting is programming](https://dev.to/jee599/prompting-is-programming) — the useful question is no longer "is the output better" but "what does the output let me stop doing."
+A thought about the broader arc. Model releases used to be judged on whether they were "prettier." That axis is dead. What matters now is how many steps in your workflow disappear when the model ships. This is the same pattern I wrote about in [prompting is programming](https://dev.to/ji_ai/prompting-is-programming) — the useful question is no longer "is the output better" but "what does the output let me stop doing."
 
 If duct-tape is really GPT-Image 2, what's the first thing in your workflow that becomes unnecessary?
 
@@ -83,7 +83,7 @@ If duct-tape is really GPT-Image 2, what's the first thing in your workflow that
 
 ---
 
-Read the Korean version on [spoonai.me](https://spoonai.me/posts/openai-duct-tape-gpt-image-2). Follow me on [DEV.to](https://dev.to/jee599).
+Read the Korean version on [spoonai.me](https://spoonai.me/posts/openai-duct-tape-gpt-image-2). Follow me on [DEV.to](https://dev.to/ji_ai).
 
 Sources:
 
