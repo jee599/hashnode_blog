@@ -121,4 +121,4 @@ If you'd rather skip the plugin system, the repo ships an `install.sh` that drop
 - [GitHub: jee599/fable-mode-kit](https://github.com/jee599/fable-mode-kit)
 - [Claude Code documentation](https://code.claude.com/docs)
 
-Read the Korean version on [spoonai.me](https://spoonai.me/blog/fable-mode-opus-claude-code) · Also on [DEV.to](https://dev.to/jee599).
+Read the Korean version on [spoonai.me](https://spoonai.me/blog/fable-mode-opus-claude-code) · Also on [DEV.to](https://dev.to/ji_ai).
